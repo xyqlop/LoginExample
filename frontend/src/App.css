@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-link {
+    @apply text-lg font-medium bg-gradient-to-r from-sky-500 via-red-400 to-pink-500 bg-clip-text hover:text-transparent tracking-wide transition duration-300 ease-in-out;
+  }
+
+  .hover-fx-primary {
+    @apply bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 transition duration-200 hover:text-transparent bg-clip-text;
+  }
+
+  .hover-fx-secondary {
+    @apply bg-gradient-to-r from-red-500 via-yellow-500 to-pink-500 transition duration-200 hover:text-transparent bg-clip-text;
+  }
+}
