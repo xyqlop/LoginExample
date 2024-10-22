@@ -1,12 +1,34 @@
-###To Run This Web###
+# Description
 
-clone this project
+This is the example of login and register website.
 
-type 
-cd LoginExample/frontend
+## Made With
+
+#### Frontend Side :
+
+- React-Vite
+- Tailwind CSS
+
+#### Backend Side :
+
+- Express
+- Nodejs
+
+# To Run This Web
+
+- ## Clone this project with :
+
+```
+git clone https://github.com/xyqlop/LoginExample.git
+```
+
+- ## And then type this command in your terminal :
+
+```
+cd ./LoginExample/frontend
 npm i
 cd ../backend
 npm i
+```
 
-and then add the .env file type mongodburi and jwtsecret and port
-done
+and then you need to configure your .env file or you can see the .env.example and rename it to .env
