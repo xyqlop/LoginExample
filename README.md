@@ -16,13 +16,13 @@ This is the example of login and register website.
 
 # To Run This Web
 
-- ## Clone this project with :
+- ### Clone this project with :
 
 ```
 git clone https://github.com/xyqlop/LoginExample.git
 ```
 
-- ## And then type this command in your terminal :
+- ### Type this command in your terminal :
 
 ```
 cd ./LoginExample/frontend
