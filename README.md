@@ -32,3 +32,5 @@ npm i
 ```
 
 and then you need to configure your .env file or you can see the .env.example and rename it to .env
+
+oke keren banget deeehhhh......
